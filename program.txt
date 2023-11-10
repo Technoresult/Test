@@ -1,0 +1,2 @@
+Python is the best programing language
+This project will be focused on writing programing languages in Python
